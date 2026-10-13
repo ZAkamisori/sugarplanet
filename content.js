@@ -9,5 +9,5 @@ window.siteContent = {
     { title: 'Wavebox', subtitle: '感想・ひとことなどありましたらとても嬉しいです！', url: 'https://wavebox.me/wave/9g3a3n1in9bte24z/' }
   ],
   // 日付と本文は仮の内容です。公開前に変更してください。
-  news: [{ text: '設定のまとめをここに掲載予定です' }]
+  news: [{ text: '「IMAGO」アップしました' }]
 };
