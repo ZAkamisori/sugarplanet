@@ -4,7 +4,7 @@ window.siteContent = {
   bio: '本と洋画と洋ドラと舞台が好き。\n一次創作の小説を書いています。\n受けは大きければ大きいほど嬉しい。狂人なのですぐに産卵させます。\n　\nあまりにも似た傾向の男を好きになるので、もう自分で書いちゃえば？！と思って創作を始めました。　\n　\n作品や創作のお知らせなどは\nそれぞれのリンク先へ。',
   links: [
     { title: 'SNS', subtitle: '日々のこと・更新のお知らせ・お返事', url: 'https://x.com/sugarwakusei' },
-    { title: 'AlphaPolis', subtitle: 'オリジナル小説', url: '' },
+    { title: 'AlphaPolis', subtitle: 'オリジナル小説', url: 'https://www.alphapolis.co.jp/author/detail/816821140' },
     { title: 'mnlt novels', subtitle: 'オリジナル小説', url: 'https://xmypage.syosetu.com/mypage/novellist/xid/x5089cs/' },
     { title: 'Wavebox', subtitle: '感想・ひとことなどありましたらとても嬉しいです！', url: 'https://wavebox.me/wave/9g3a3n1in9bte24z/' }
   ],
