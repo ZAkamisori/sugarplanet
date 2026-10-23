@@ -9,5 +9,5 @@ window.siteContent = {
     { title: 'Wavebox', subtitle: '感想・ひとことなどありましたらとても嬉しいです！', url: 'https://wavebox.me/wave/9g3a3n1in9bte24z/' }
   ],
   // 日付と本文は仮の内容です。公開前に変更してください。
-  news: [{ text: '「IMAGO」アップしました' }]
+  news: [{ text: '「最強エスパーは15歳年上の筋肉質ガイドと恋人になりたいのに、子供扱いされている」アップしました' }]
 };
