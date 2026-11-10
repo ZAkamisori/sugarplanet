@@ -8,6 +8,6 @@ window.siteContent = {
     { title: 'mnlt novels', subtitle: 'オリジナル小説', url: 'https://xmypage.syosetu.com/mypage/novellist/xid/x5089cs/' },
     { title: 'Wavebox', subtitle: '感想・ひとことなどありましたらとても嬉しいです！', url: 'https://wavebox.me/wave/9g3a3n1in9bte24z/' }
   ],
-  // 日付と本文は仮の内容です。公開前に変更してください。
+  // 公開前に変更
   news: [{ text: ' 「最強エスパーは15歳年上の筋肉質ガイドと恋人になりたいのに、子供扱いされている」アップしました' }]
 };
