@@ -1,6 +1,6 @@
 const c = window.siteContent;
 document.getElementById('name').textContent = c.name;
-document.getElementById('bio').textContent = c.bio;
+document.getElementById('bio').innerHTML = c.bio;
 c.links.forEach((item,i) => {
  const row = document.createElement(item.url ? 'a' : 'div');
  row.className = 'link-row' + (item.url ? '' : ' pending');
